@@ -5,7 +5,7 @@ Engineer by training, finance by choice, builder by default. I'm studying financ
 **Projects**
 
 - **[Kora](https://github.com/datanerdaditya/kora-ai-receptionist)**: a voice AI receptionist for clinics. It books, moves and cancels appointments, answers questions from the clinic's own information, and passes emergencies to staff. LiveKit Agents, Deepgram, Claude.
-- **[Morning Edge](https://github.com/datanerdaditya/MorningEdge)**: a Claude-powered daily briefing on credit markets.
+- **[Morning Edge](https://github.com/datanerdaditya/MorningEdge)**: a Claude-powered daily market briefing.
 - **[PMX](https://github.com/datanerdaditya/prediction-market-execution-engine)**: an execution and transaction-cost engine across prediction-market venues.
 - **GreenCheck**: rates sustainability claims in green bonds and Article 8/9 funds as substantiated, partial or unsubstantiated.
 
